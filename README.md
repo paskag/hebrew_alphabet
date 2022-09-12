@@ -1,6 +1,6 @@
 # This is the game that I've done to learn Hebrew alphabet.
 
-### I decided to create this game just for fun. I thought that it will be convenient to learn Hebrew alphabet via game.
+### I decided to create this game just for fun. I thought that it would be convenient to learn Hebrew alphabet via game.
 
 There are 2 games to play:
 
